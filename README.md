@@ -57,7 +57,7 @@
 <br>
 
 <h3 align="left"> Contact </h3>
-<div align="center">
+<div align="left">
   <a href="https://velog.io/@jy6443/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
