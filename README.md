@@ -1,13 +1,9 @@
 ## Hi there 👋
 
 
-<div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
-</div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+
+<h3 align="center"> Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
